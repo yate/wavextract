@@ -1,0 +1,5 @@
+c:\users\mike\documents\visual studio 2010\Projects\wavextractor\wavextractor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\wavextractor\wavextractor\bin\Debug\wavextract.exe
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\wavextractor\wavextractor\bin\Debug\wavextract.pdb
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\wavextractor\wavextractor\obj\x86\Debug\wavextract.exe
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\wavextractor\wavextractor\obj\x86\Debug\wavextract.pdb
